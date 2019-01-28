@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="HF Cam.exe" version="1.0.0.0" publicKeyToken="b64e0f92bc5efe32" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="HF Cam" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="HF Cam.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HF Cam.exe" size="297984">
+      <assemblyIdentity name="HF Cam" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>6n5rfGFNg753foP3J0YCsKZdXlo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="HF Cam.exe.config" size="897">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>+pVEVE2LoTBKkP32zwOHjkqZcWM=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Home-PC\Home" issuerKeyHash="87a7072940e08cba04d13e33ed768b441528451a" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>iROBcQ2/u2/V8WKziU2fpPGGX+U=</DigestValue></Reference></SignedInfo><SignatureValue>c7GXHJwgwMJ3v7edHqqcZ4yUJO8pLpOyYLdDT5/DqASv0Es2K9xgJSZmTRy5nPu2nkv92syWzjoAh4OcByrCIUh51pvWT2AQLDSG7sevrn506VjgROCeQ/W4owTFPmlh0mI8KzibKjKu277C8IBl+AO9Xa8loTZc6oENDbChWLM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>qB8VPbk5yN2cFn2EkwNT3hYkLG6jMkGTsVPXLTpOa/n+WOf3ooGje/kNdLsQmCQQJQiHTi1ycnDI/8VW3rj71GIlA7vaybCIyPeE+O3AgBgJM89vVAzi0sbnLweOUOkt8v8ycDThdVPe6Z79mke0/j6QM38PYIL/4uAXcpiy5eU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="e55f86f1a49f4d89b362f1d56fbbbf0d71811389" Description="" Url=""><as:assemblyIdentity name="HF Cam.exe" version="1.0.0.0" publicKeyToken="b64e0f92bc5efe32" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Home-PC\Home</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>jgxIITK3BYLl0K8BXz98LHP/BrY=</DigestValue></Reference></SignedInfo><SignatureValue>Ar56sb3/h1pZLS19Uw1/m27zh1Hd4Cs50zOxTQQs9Wn/xE/1Z9qSmTrjM3G7roHhulKT9ZniWW8I8VhgJxDjl12gR4FZJVIB2KJiNCBOLe4HIUOxhjNsnlgEvIquDOtvwUjuioff6bEJQYmOzBDE9m9tuWEE2aDhl0GCzQT3nms=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>qB8VPbk5yN2cFn2EkwNT3hYkLG6jMkGTsVPXLTpOa/n+WOf3ooGje/kNdLsQmCQQJQiHTi1ycnDI/8VW3rj71GIlA7vaybCIyPeE+O3AgBgJM89vVAzi0sbnLweOUOkt8v8ycDThdVPe6Z79mke0/j6QM38PYIL/4uAXcpiy5eU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQdvGXgjHG7K5GUtHzwoqMaDANBgkqhkiG9w0BAQUFADAjMSEwHwYDVQQDHhgASABvAG0AZQAtAFAAQwBcAEgAbwBtAGUwHhcNMTkwMTI4MDAzODUxWhcNMjAwMTI4MDYzODUxWjAjMSEwHwYDVQQDHhgASABvAG0AZQAtAFAAQwBcAEgAbwBtAGUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKgfFT25OcjdnBZ9hJMDU94WJCxuozJBk7FT1y06Tmv5/ljn96KBo3v5DXS7EJgkECUIh04tcnJwyP/FVt64+9RiJQO72smwiMj3hPjtwIAYCTPPb1QM4tLG5y8HjlDpLfL/MnA04XVT3ume/ZpHtP4+kDN/D2CC/+LgF3KYsuXlAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAGQ+cGzX0Yv61uh9cce3tnQYuWGj1xOYq2sK+tbX4L3gE/MbAOBP6wF8fnYxwcImm+hVjAvx5F+S0jdltDWT9VulaJKavzjoeZUzPqIiItXMnVtjNGY4n3QqQ60k6BHa1+5D9vuYPely47q33awGaPWC+K7nh2jbNYP4zF+0tIco=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

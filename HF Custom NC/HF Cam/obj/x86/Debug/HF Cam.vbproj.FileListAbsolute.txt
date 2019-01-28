@@ -1,0 +1,30 @@
+c:\users\home\documents\visual studio 2010\Projects\HF Cam\HF Cam\HF Cam\bin\Debug\HF Cam.exe
+c:\users\home\documents\visual studio 2010\Projects\HF Cam\HF Cam\HF Cam\bin\Debug\HF Cam.pdb
+c:\users\home\documents\visual studio 2010\Projects\HF Cam\HF Cam\HF Cam\bin\Debug\HF Cam.xml
+c:\users\home\documents\visual studio 2010\Projects\HF Cam\HF Cam\HF Cam\obj\x86\Debug\HF_Cam.frmHfCam.resources
+c:\users\home\documents\visual studio 2010\Projects\HF Cam\HF Cam\HF Cam\obj\x86\Debug\HF_Cam.Resources.resources
+c:\users\home\documents\visual studio 2010\Projects\HF Cam\HF Cam\HF Cam\obj\x86\Debug\HF Cam.vbproj.GenerateResource.Cache
+c:\users\home\documents\visual studio 2010\Projects\HF Cam\HF Cam\HF Cam\obj\x86\Debug\HF Cam.exe
+c:\users\home\documents\visual studio 2010\Projects\HF Cam\HF Cam\HF Cam\obj\x86\Debug\HF Cam.xml
+c:\users\home\documents\visual studio 2010\Projects\HF Cam\HF Cam\HF Cam\obj\x86\Debug\HF Cam.pdb
+C:\Users\Home\documents\visual studio 2010\Projects\HF Cam\HF Cam\HF Cam\obj\x86\Debug\HF_Cam.frmSerialComms.resources
+C:\Users\Home\documents\visual studio 2010\Projects\HF Cam\HF Cam\HF Cam\obj\x86\Debug\HF_Cam.frmEnvironment.resources
+C:\Users\Home\documents\visual studio 2010\Projects\HF Cam\HF Cam\HF Cam\obj\x86\Debug\HF_Cam.frmLineNumbering.resources
+C:\Users\Home\documents\visual studio 2010\Projects\HF Cam\HF Cam\HF Cam\obj\x86\Debug\HF_Cam.frmEditNCLines.resources
+C:\Users\Home\Desktop\HF Custom NC\HF Cam\bin\Debug\HF Cam.exe.config
+C:\Users\Home\Desktop\HF Custom NC\HF Cam\bin\Debug\HF Cam.exe
+C:\Users\Home\Desktop\HF Custom NC\HF Cam\bin\Debug\HF Cam.pdb
+C:\Users\Home\Desktop\HF Custom NC\HF Cam\bin\Debug\HF Cam.xml
+C:\Users\Home\Desktop\HF Custom NC\HF Cam\obj\x86\Debug\HF_Cam.frmEditNCLines.resources
+C:\Users\Home\Desktop\HF Custom NC\HF Cam\obj\x86\Debug\HF_Cam.frmEnvironment.resources
+C:\Users\Home\Desktop\HF Custom NC\HF Cam\obj\x86\Debug\HF_Cam.frmHfCam.resources
+C:\Users\Home\Desktop\HF Custom NC\HF Cam\obj\x86\Debug\HF_Cam.frmLineNumbering.resources
+C:\Users\Home\Desktop\HF Custom NC\HF Cam\obj\x86\Debug\HF_Cam.Resources.resources
+C:\Users\Home\Desktop\HF Custom NC\HF Cam\obj\x86\Debug\HF Cam.vbproj.GenerateResource.Cache
+C:\Users\Home\Desktop\HF Custom NC\HF Cam\obj\x86\Debug\HF Cam.exe
+C:\Users\Home\Desktop\HF Custom NC\HF Cam\obj\x86\Debug\HF Cam.xml
+C:\Users\Home\Desktop\HF Custom NC\HF Cam\obj\x86\Debug\HF Cam.pdb
+C:\Users\Home\Desktop\HF Custom NC\HF Cam\bin\Debug\HF Cam.exe.manifest
+C:\Users\Home\Desktop\HF Custom NC\HF Cam\bin\Debug\HF Cam.application
+C:\Users\Home\Desktop\HF Custom NC\HF Cam\obj\x86\Debug\HF Cam.exe.manifest
+C:\Users\Home\Desktop\HF Custom NC\HF Cam\obj\x86\Debug\HF Cam.application
